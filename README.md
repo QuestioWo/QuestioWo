@@ -1,4 +1,4 @@
-### Hi there, I'm Jim - aka [QuestioWo][website] 👋
+# Hi, I'm Jim - aka [QuestioWo][website] 👋
 
 ## I'm a Student and Developer!
 - 🔭 I’m currently working on an [in browser IDE for Sigma16][sigma17], a research language, and on [software for a driverless racing car][ugracing]!
@@ -6,15 +6,23 @@
 - 🥅 2020 Goals: Survive second year of university hahah
 - ⚡ Fun fact: I've broken my arm on a hammock!
 
-### Connect with me:
+## Projects :
+
+### [Sigma17][sigma17]
+
+A recreation of the Sigma16 IDE and emulator originally implemented by [John O'Donnel](https://jtod.github.io) in `React.js`
+
+## Connect with me :
 
 [<img align="left" alt="questiowo.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
-[<img align="left" alt="cartyjim1@gmail.com | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 
 <br />
+<br />
 
-### Languages :
+Email : cartyjim1@gmail.com
+
+## Languages I have experience with :
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -38,4 +46,3 @@
 [sigma17]: https://questiowo.github.io/Sigma17
 [ugracing]: https://ugracing.co.uk
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
-[email]: mailto:cartyjim1@gmail.com
