@@ -10,7 +10,7 @@
 
 ### [Sigma17][sigma17]
 
-A recreation of the Sigma16 IDE and emulator originally implemented by [John O'Donnel](https://jtod.github.io) in `React.js`
+A recreation of the Sigma16 IDE `React.js`
 
 ## Connect with me :
 
