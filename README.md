@@ -10,7 +10,7 @@
 
 ### [Sigma17][sigma17]
 
-A recreation of the Sigma16 IDE `React.js`
+A recreation of the Sigma16 IDE in `React`
 
 ## Connect with me :
 
