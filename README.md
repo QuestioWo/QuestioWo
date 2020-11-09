@@ -12,7 +12,7 @@
 
 A recreation of the Sigma16 IDE in `React`
 
-### [UGDRV][sigma17]
+### [UGDRV][ugrdv]
 
 A project to create software for a driverless racing car. I handle the GitLab and CI along with detecting cones in a 3D environment from two 2D images.
 
