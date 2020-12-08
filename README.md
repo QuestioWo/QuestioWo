@@ -20,6 +20,7 @@ A project to create software for a driverless racing car. I handle the GitLab an
 
 [<img align="left" alt="questiowo.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
+[<img align="left" alt="QuestioWo | GitLab" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/gitlab.svg" />][gitlab]
 
 <br />
 <br />
@@ -60,3 +61,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [ugrdv]: https://gitlab.com/QuestioWo/ugrdv
 [ugracing]: https://ugracing.co.uk
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
+[gitlab]: https://www.gitlab.com/QuestioWo
