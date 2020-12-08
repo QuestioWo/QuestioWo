@@ -16,6 +16,11 @@ A recreation of the Sigma16 IDE in `React`
 
 A project to create software for a driverless racing car. I handle the GitLab and CI along with detecting cones in a 3D environment from two 2D images.
 
+
+### [Buddhabrot][buddhabrot]
+
+A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fractal using the OpenGL library
+
 ## Connect with me :
 
 [<img align="left" alt="questiowo.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -59,6 +64,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [website]: https://questiowo.github.io
 [sigma17]: https://questiowo.github.io/Sigma17
 [ugrdv]: https://gitlab.com/QuestioWo/ugrdv
+[buddhabrot]: https://questiowo.github.io/buddhabrot
 [ugracing]: https://ugracing.co.uk
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
 [gitlab]: https://www.gitlab.com/QuestioWo
