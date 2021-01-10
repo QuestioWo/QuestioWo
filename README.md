@@ -12,6 +12,10 @@
 
 A recreation of the Sigma16 IDE in `React`
 
+### [Daedalus][daedalus]
+
+A project thought up to more rigorously test the [Sigma17][sigma17] project, I wrote a maze generator with psuedo-random number generation and a recursive backtracking algorithm in Sigma16
+
 ### [UGDRV][ugrdv]
 
 A project to create software for a driverless racing car. I handle the GitLab and CI along with detecting cones in a 3D environment from two 2D images.
@@ -62,6 +66,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [website]: https://questiowo.github.io
 [sigma17]: https://questiowo.github.io/Sigma17
+[daedalus]: https://questiowo.github.io/Daedalus
 [ugrdv]: https://gitlab.com/QuestioWo/ugrdv
 [buddhabrot]: https://questiowo.github.io/buddhabrot
 [ugracing]: https://ugracing.co.uk
