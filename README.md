@@ -1,7 +1,7 @@
 # Hi, I'm Jim - aka [QuestioWo][website] 👋
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on a [fractal renderer that uses GPU computing][buddhabrot], and on [software for a driverless racing car][ugracing]!
+- 🔭 I’m currently working on a [fractal renderer that uses GPU computing][buddhabrot], and on [software for a driverless racing car][ugrdv]!
 - 🌱 I’m currently learning about GPU computing and fixed point arithmetic!
 - 🥅 2021 Goals: Learn about new technologies and stay fit
 - ⚡ Fun fact: I've broken my arm on a hammock!
@@ -69,6 +69,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [daedalus]: https://questiowo.github.io/Daedalus
 [ugrdv]: https://gitlab.com/QuestioWo/ugrdv
 [buddhabrot]: https://questiowo.github.io/buddhabrot
-[ugracing]: https://ugracing.co.uk
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
 [gitlab]: https://www.gitlab.com/QuestioWo
