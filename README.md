@@ -67,7 +67,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [website]: https://questiowo.github.io
 [sigma17]: https://questiowo.github.io/Sigma17
 [daedalus]: https://questiowo.github.io/Daedalus
-[ugrdv]: https://gitlab.com/QuestioWo/ugrdv
+[ugrdv]: https://www.linkedin.com/posts/jim-carty-5950261b4_autonomous-autonomousdriving-software-activity-6826219364124127232-2MVw
 [buddhabrot]: https://questiowo.github.io/buddhabrot
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
 [gitlab]: https://www.gitlab.com/QuestioWo
