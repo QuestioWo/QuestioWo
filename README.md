@@ -30,7 +30,7 @@ A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fr
 [<img align="center" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
 [<img align="center" alt="QuestioWo | GitLab" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/gitlab.svg" />][gitlab]
 
-[<img align="left" alt="Jim Carty | Email" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][email]: cartyjim1@gmail.com
+[<img align="left" alt="Jim Carty | Email" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][email]: [cartyjim1@gmail.com][email]
 
 ## I have experience with :
 
@@ -56,6 +56,8 @@ A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fr
 - <img align="left" alt="Spring Boot" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> Spring Boot
 - <img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Terminal
 - <img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript
+
+## Recent GitHub Statistics
 
 <img align="centre" alt="QuestioWo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=QuestioWo&show_icons=true&hide_border=true" />
 
