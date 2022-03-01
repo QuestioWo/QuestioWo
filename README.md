@@ -1,9 +1,9 @@
 # Hi, I'm Jim - aka [QuestioWo][website] 👋
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on a [fractal renderer that uses GPU computing][buddhabrot], and on [software for a driverless racing car][ugrdv]!
+- 🔭 I’m currently working on [software for a driverless racing car][ugrdv]!
 - 🌱 I’m currently learning about GPU computing and fixed point arithmetic!
-- 🥅 2021 Goals: Learn about new technologies and stay fit
+- 🥅 2022 Goals: Learn about new technologies and stay fit!
 - ⚡ Fun fact: I've broken my arm on a hammock!
 
 ## Projects :
