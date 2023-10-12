@@ -30,7 +30,7 @@ My dissertation project novelly applies the Perceiver IO network architecture to
 
 ### [Cat Explorer][cat-explorer]
 
-A basic Angular project making use of publicly available APIs to show facts about cats and allow you to collect cats with randomly generated stats to build the strongest and loudest roster
+A basic Angular project to learn the framework for my internship at SAS after graduating. Makes use of publicly available APIs to show facts about cats and allow you to collect cats with randomly generated stats to build the strongest and loudest roster
 
 ## Connect with me :
 
