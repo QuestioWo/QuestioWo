@@ -18,7 +18,7 @@ A project thought up to more rigorously test the [Sigma17][sigma17] project, I w
 
 ### [UGDRV][ugrdv]
 
-A project to create software for a driverless racing car. I handle the GitLab and CI along with detecting cones in a 3D environment from two 2D images.
+A project to create software for a driverless racing car. I left the team in July 2023 after I had graduated, steeping down from the role of Head Software Engineer.
 
 ### [Buddhabrot][buddhabrot]
 
@@ -26,7 +26,11 @@ A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fr
 
 ### [Application of Perceiver Io Network to Abdominal Multi-Class, Multi-Modality Medical Image Segmentation](https://github.com/questiowo/l4_amos_project)
 
-My dissertation project novelly applies the Perceiver IO network architecture to the domain of medical image segmentation. Supervised by Dr Ali Gooya, graded as an A5, granting me a First Class Honours qualification as a Bachelor of Computer Science with a specialisation in Data Management.  
+My dissertation project novelly applies the Perceiver IO network architecture to the domain of medical image segmentation. Supervised by Dr Ali Gooya, graded as an A5, granting me a First Class Honours qualification as a Bachelor of Computer Science with a specialisation in Data Management
+
+### [Cat Explorer][cat-explorer]
+
+A basic Angular project making use of publicly available APIs to show facts about cats and allow you to collect cats with randomly generated stats to build the strongest and loudest roster
 
 ## Connect with me :
 
@@ -73,3 +77,4 @@ My dissertation project novelly applies the Perceiver IO network architecture to
 [buddhabrot]: https://questiowo.github.io/buddhabrot
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
 [gitlab]: https://www.gitlab.com/QuestioWo
+[cat-explorer]: https://questiowo.github.io/cat-explorer
